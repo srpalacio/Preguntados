@@ -10,7 +10,7 @@ class Cuestionador:
         self.answers=[
             "Circulo imaginario en la esfera celeste",
             "90 grados respecto al horizonte",
-            12
+            "12"
         ]
     def jugar(self):
         #Generar un número aleatorio entre 0 y n-1, siendo n el tamaño de la lista de preguntas
